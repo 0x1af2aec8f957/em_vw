@@ -1,0 +1,26 @@
+{
+  "name": "em-vw",
+  "title": "em-vw",
+  "version": "0.0.1",
+  "description": "css3 - vw",
+  "main": "index.js",
+  "scripts": {
+    "example": "node index.js"
+  },
+  "keywords": [
+    "vw",
+    "vh",
+    "vm",
+    "px"
+  ],
+  "author": "603803799@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noteScript/em_vw/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noteScript/em_vw"
+  },
+  "homepage": "https://github.com/noteScript/em_vw/#readme"
+}
